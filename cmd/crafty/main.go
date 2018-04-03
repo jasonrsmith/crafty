@@ -1,8 +1,8 @@
 package main
 
 import (
-	"jasmith/crafty/http"
-	"jasmith/crafty/memstore"
+	"github.com/jasonrsmith/crafty/http"
+	"github.com/jasonrsmith/crafty/memstore"
 )
 
 func main() {

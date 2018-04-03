@@ -1,7 +1,7 @@
 package memstore
 
 import (
-	"jasmith/crafty"
+	"github.com/jasonrsmith/crafty"
 )
 
 var _ crafty.Service = &CraftyService{}

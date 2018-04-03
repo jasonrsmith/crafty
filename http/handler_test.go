@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"jasmith/crafty/http"
+	"github.com/jasonrsmith/crafty/http"
 	"log"
 	nethttp "net/http"
 	"net/http/httptest"

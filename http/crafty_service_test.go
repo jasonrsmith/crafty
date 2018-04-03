@@ -2,8 +2,8 @@ package http_test
 
 import (
 	"bytes"
-	"jasmith/crafty"
-	"jasmith/crafty/http"
+	"github.com/jasonrsmith/crafty"
+	"github.com/jasonrsmith/crafty/http"
 	nethttp "net/http"
 	"net/http/httptest"
 	"testing"

@@ -2,7 +2,7 @@ package http
 
 import (
 	"encoding/json"
-	"jasmith/crafty"
+	"github.com/jasonrsmith/crafty"
 	"log"
 	"net/http"
 	"os"

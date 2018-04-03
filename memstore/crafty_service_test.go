@@ -1,8 +1,8 @@
 package memstore_test
 
 import (
-	"jasmith/crafty"
-	"jasmith/crafty/memstore"
+	"github.com/jasonrsmith/crafty"
+	"github.com/jasonrsmith/crafty/memstore"
 	"testing"
 
 	"github.com/satori/go.uuid"
